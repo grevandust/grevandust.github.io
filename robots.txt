@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grevandust.github.io/sitemap.html.gz
+Sitemap: https://grevandust.github.io/app/sitemap.html.gz
+Sitemap: https://grevandust.github.io/assets/sitemap.html.gz
+Sitemap: https://grevandust.github.io/css/sitemap.html.gz
+Sitemap: https://grevandust.github.io/includes/sitemap.html.gz
+Sitemap: https://grevandust.github.io/item/sitemap.html.gz
+Sitemap: https://grevandust.github.io/src/sitemap.html.gz
